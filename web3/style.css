@@ -1,0 +1,40 @@
+body{
+    margin:52px;
+    background-color: rgba(66, 79, 119, 0.71);
+}
+.text-section h1{
+    color: aliceblue;
+    font-size: 44px;
+}
+.text-section span{
+    color: rgb(45, 57, 45);
+}
+.text-section p {
+    color: rgb(78, 77, 77);
+    font-size: 22px;
+}
+
+.text-section button{
+    background:   rgb(45, 57, 45);
+    padding: 5px 22px;
+    border: none;
+    border-radius: 2px;
+    color: aliceblue;
+    font-style: italic;
+}
+
+.option-section{
+    display: flex;
+    margin-top: 55px;
+    gap: 32px
+    ;
+}
+.option-section h1{
+    color: aliceblue;
+}
+.option-section .input{
+    background-color: rgba(66, 79, 119, 0.71);
+    border: none;
+    padding: 23px;
+    border-radius: 3px;
+}
